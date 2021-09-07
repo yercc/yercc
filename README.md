@@ -23,7 +23,8 @@
 chiu327@outlook.com
 
 [![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=yercc&
-hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/yercc/github-readme-stats)
+hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yercc&layout=compact)](https://github.com/yercc/github-readme-stats)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yercc&theme=dracula)](https://github.com/yercc/github-readme-activity-graph)
