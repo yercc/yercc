@@ -22,7 +22,5 @@
 
 chiu327@outlook.com
 
-<!-- ![github](https://github-readme-stats.vercel.app/api?username=yercc “github”) -->
-
-<!-- [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
- -->
+[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=yercc&
+hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
