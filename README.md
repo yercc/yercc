@@ -22,6 +22,8 @@
 
 chiu327@outlook.com
 
+[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=yercc&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- 
 GitHub 统计卡片
 username： 需要跟你github账户名称一致 （最关键）
@@ -31,8 +33,6 @@ theme:  主题选择
 include_all_commits - 统计总提交次数而不是仅统计今年的提交次数  (boolean) 
 详细见：https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
 -->
-
-[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=yercc&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
  擅长语言卡片
