@@ -1,14 +1,14 @@
-> 有张爱吃的嘴，有颗想浪的心。
->
-> 时来诗情画意，时来疯疯癫癫。
->
-> 梦想能在江湖中留下侠名，奈何克服不了惰性的根本。
->
-> 允许自己犯错，但不能一直堕落。
->
-> 人生可以平凡，但不能没有追求。
->
-> 持续性的学习，无论做人还是做事。
+- 有张爱吃的嘴，有颗想浪的心。
+-
+- 时来诗情画意，时来疯疯癫癫。
+-
+- 梦想能在江湖中留下侠名，奈何克服不了惰性的根本。
+-
+- 允许自己犯错，但不能一直堕落。
+-
+- 人生可以平凡，但不能没有追求。
+-
+- 持续性的学习，无论做人还是做事。
 
 ### 🏷️ Label: 
 
@@ -81,4 +81,48 @@ antzuhl 二次元展示访问量
 ![](http://antzuhl.cn:4000/get/@yercc)
 -->
 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/yercc/vblog">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yercc&repo=vblog&theme=chartreuse-dark" />
+        </a>
+      </td>
+       <td>
+        <a href="https://github.com/yercc/vblog">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yercc&repo=vblog&theme=chartreuse-dark" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+📊 **some stats**
+
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=yercc&theme=chartreuse-dark&show_icons=true" />
+      </td>
+       <td>
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yercc&theme=chartreuse-dark" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+📊 **Weekly development breakdown**
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   9 hrs 2 mins    ████████████████░░░░░░░░░   63.42 % 
+JavaScript   2 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+JSON         1 hr 54 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+SCSS         1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+```
+<!--END_SECTION:waka-->
 
