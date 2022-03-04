@@ -98,9 +98,7 @@ antzuhl 二次元展示访问量
   </tbody>
 </table>
 
-📊 **some stats**
-
-
+<!--
 <table>
   <tbody>
     <tr>
@@ -116,7 +114,7 @@ antzuhl 二次元展示访问量
 
 📊 **Weekly development breakdown**
 
-<!--START_SECTION:waka
+START_SECTION:waka
 ```text
 TypeScript   9 hrs 2 mins    ████████████████░░░░░░░░░   63.42 % 
 JavaScript   2 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 % 
