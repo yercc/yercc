@@ -25,12 +25,13 @@ yercc@foxmail.com
 
 [![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=yercc&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yercc&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
 </a>
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yercc&langs_count=3&hide_title=true&hide_border=true" />
-</a>
+</a>-->
 
 <!-- 
 GitHub 统计卡片
@@ -81,7 +82,7 @@ antzuhl 二次元展示访问量
 ![](http://antzuhl.cn:4000/get/@yercc)
 -->
 
-<!--![Alt](https://repobeats.axiom.co/api/embed/a406ba7461a6a087dbdb14d4395046c948d44c51.svg 'Repobeats analytics image')-->
+<!-- ![Alt](https://repobeats.axiom.co/api/embed/a406ba7461a6a087dbdb14d4395046c948d44c51.svg 'Repobeats analytics image')-->
 
 <!--<table>
   <tbody>
