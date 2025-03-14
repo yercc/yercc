@@ -25,8 +25,8 @@ yercc@foxmail.com
 <!--[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=yercc&hide=contribs,prs&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <img align="" width="57.5%" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=yercc&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=0969da&icon_color=0969da&text_color=0969da&bg_color=9ca3af00" />
-<img align="" width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=yercc&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=0969da&icon_color=0969da&text_color=0969da&bg_color=9ca3af00" />
-<img align="" width="99.9%" src="https://github-readme-activity-graph-qpqpgkqdk-edison1105.vercel.app/graph?username=yercc&theme=transparent&color=0969da&point=0969da&hide_border=true&line=0969da&title_color=0969da&icon_color=0969da&text_color=0969da&bg_color=9ca3af00" />
+<!--<img align="" width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=yercc&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=0969da&icon_color=0969da&text_color=0969da&bg_color=9ca3af00" />
+<img align="" width="99.9%" src="https://github-readme-activity-graph-qpqpgkqdk-edison1105.vercel.app/graph?username=yercc&theme=transparent&color=0969da&point=0969da&hide_border=true&line=0969da&title_color=0969da&icon_color=0969da&text_color=0969da&bg_color=9ca3af00" />-->
 
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yercc&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
