@@ -1,15 +1,10 @@
 <!-- 有张爱吃的嘴，有颗想浪的心。-->
-> A mouth that craves delicious food, a heart that longs for adventure.
-<!-- 时来诗情画意，时来疯疯癫癫。-->
-> At times poetic and artistic, at times silly and carefree.
-<!-- 梦想能在江湖中留下侠名，奈何克服不了惰性的根本。-->
-> I dream of leaving a hero's name in the jianghu (martial arts world), yet I can't overcome the root of my laziness.
-<!-- 允许自己犯错，但不能一直堕落。-->
-> I allow myself to make mistakes, but I must not keep wallowing in decadence.
-<!-- 人生可以平凡，但不能没有追求。-->
-> Life can be ordinary, but it must not lack aspirations.
-<!-- 持续性的学习，无论做人还是做事。-->
-> Continuous learning—whether in life or work, in being a person or doing things.
+> A mouth that craves delicious food, a heart that longs for adventure.<br/>At times poetic and artistic, at times silly and carefree.<br/>I dream of leaving a hero's name in the jianghu (martial arts world), yet I can't overcome the root of my laziness.<br/>I allow myself to make mistakes, but I must not keep wallowing in decadence.<br/>Life can be ordinary, but it must not lack aspirations.<br/>Continuous learning—whether in life or work, in being a person or doing things.
+<!-- 时来诗情画意，时来疯疯癫癫。At times poetic and artistic, at times silly and carefree.-->
+<!-- 梦想能在江湖中留下侠名，奈何克服不了惰性的根本。I dream of leaving a hero's name in the jianghu (martial arts world), yet I can't overcome the root of my laziness.-->
+<!-- 允许自己犯错，但不能一直堕落。I allow myself to make mistakes, but I must not keep wallowing in decadence.-->
+<!-- 人生可以平凡，但不能没有追求。Life can be ordinary, but it must not lack aspirations.-->
+<!-- 持续性的学习，无论做人还是做事。Continuous learning—whether in life or work, in being a person or doing things.-->
 
 ### 🏷️ Label: 
 
