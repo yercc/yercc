@@ -8,9 +8,9 @@
 
 ### 🏷️ Label: 
 
-`JavaScript` `React` `Vue` `NodeJS` 
+`JavaScript` `React` `Vue` `NodeJS` `Go`
 
-`Software Engineering` `Development` `Frontend`
+`Software Engineering` `Development` `Full-Stack Developer`
 
 `Fingertip Artist` `Foodie Intellectual`
 
